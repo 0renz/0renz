@@ -36,14 +36,9 @@ Here are some of the technologies I frequently work with:
 ---
 
 ## What I'm Currently Focusing On:
-
 * Exploring the latest innovations in Generative AI.
 * Deepening my knowledge in MLOps techniques and production model monitoring.
 * Contributing to projects that apply AI to solve challenges.
-
 ---
-## 📫 How to Reach Me:
 
-* **LinkedIn:** [https://www.linkedin.com/in/lorenzoschauenberg/]
-* **Email:** [lorenzoschauenberg@gmail.com]
----
+Feel free to reach me via LinkedIn or E-mail! 
