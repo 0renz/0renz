@@ -1,8 +1,10 @@
 # Hi!
 
-I'm a developer Specializing in Artificial Intelligence & Machine Learning Operations in the Cloud.
+I'm a Cloud & DevOps Developer, with experience in LLMs.
 
-My experience covers the full lifecycle of AI/ML projects, from conceptualization and **scalable system** architecture to **infrastructure automation** (IaC) and **model optimization** for performance and cost-efficiency.
+My experience covers building and automating cloud infrastructure on AWS from scalable, serverless architectures to Infrastructure as Code with a focus on observability, reliability, and performance optimization.
+
+I also build Gen AI solutions (RAG, multi-agent orchestration) on Amazon Bedrock!
 
 #### Languages & Infrastructure
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
