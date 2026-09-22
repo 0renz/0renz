@@ -30,9 +30,13 @@ I also build Gen AI solutions (RAG, multi-agent orchestration) on Amazon Bedrock
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-## What I'm Currently Focusing On:
-* Exploring the latest innovations in Generative AI.
-* Deepening my knowledge in DevOps/MLOps techniques and production model monitoring.
-* Contributing to projects that apply AI to solve challenges.
+#### Observability & Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=flat&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+
+## What I'm Currently Studying:
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat)
 
 Feel free to reach me! 
